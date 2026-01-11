@@ -1,0 +1,10 @@
+streamlit
+langchain
+pypdf
+sentence-transformers
+faiss-cpu
+transformers
+torch
+stable-baselines3
+numpy
+pandas
